@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**pilot877/pilot877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Langs
+# python
+# C
+# Rust
 
-Here are some ideas to get you started:
+## GUI Libraries
+# Qt
+# iced
+# egui
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## compooter!
+# Fedora Linux
+# 16 whole GBs of RAM
+# i7
+# 1050ti
+
