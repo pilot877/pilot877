@@ -11,7 +11,7 @@
 - egui
 
 #### compooter!
-- Fedora Linux
+- Fedora Linux (KDE)
 - 16 whole GBs of RAM
 - i7
 - 1050ti
