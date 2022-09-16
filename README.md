@@ -11,7 +11,7 @@
 - egui
 
 #### compooter!
-- Fedora Linux (KDE)
+- Arco (QTile)
 - 16 whole GBs of RAM
 - i7
 - 1050ti
