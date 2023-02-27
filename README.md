@@ -11,7 +11,7 @@
 - egui
 
 #### compooter!
-- Arco (QTile)
+- Endeavour (Xfce)
 - 16 whole GBs of RAM
 - i7
 - 1050ti
